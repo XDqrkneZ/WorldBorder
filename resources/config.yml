@@ -1,0 +1,10 @@
+---
+# x max distance
+x: 99999999
+
+# z max distance
+z: 99999999
+
+# warn message
+message: "You can't pass the world border."
+...
