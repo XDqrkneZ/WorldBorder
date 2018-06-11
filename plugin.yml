@@ -1,0 +1,10 @@
+---
+name: WorldBorder
+version: 1.0.0
+main: WorldBorder\Main
+api: 3.0.0-ALPHA12
+load: STARTUP
+author: ArceusMatt
+description: Limit the world distance.
+website: https://github.com/arceusmatt
+...
